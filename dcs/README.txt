@@ -1,3 +1,5 @@
+DCS - Distributed Connectivity Services
+===
 
 To build:
 >cd <your path to DCS>
