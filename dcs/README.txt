@@ -1,5 +1,8 @@
+DCS - Distributed Connectivity Services
+======
 
 To build:
+
 >cd <your path to DCS>
 >mvn clean site package
 [INFO] Scanning for projects...
