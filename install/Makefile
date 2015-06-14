@@ -24,7 +24,7 @@
 #  * Installer version number (starting from 1 for each Trafodion version)
 #
 # "v000" indicates an internal/development version of installer
-RELEASE_VER ?= 1.0.0_v002
+RELEASE_VER ?= 1.1.0_v001
 
 all: pkg-installer 
 
