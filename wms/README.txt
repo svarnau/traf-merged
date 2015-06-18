@@ -1,4 +1,4 @@
-Build instructions for Wms
+Build instructions for Workload Management System
 
 ----------------------------------------------------------------------------------
 Requirements:
